@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bjornhaavard/joker/issues"
   },
-  "homepage": "https://github.com/bjornhaavard/joker#readme"
+  "homepage": "https://github.com/bjornhaavard/joker#readme",
+  "devDependencies": {
+    "prettier": "^3.2.2"
+  }
 }
