@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "application that makes jokes",
   "type": "module",
   "main": "src/index.js",
@@ -11,12 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/bjornhaavard/joker.git"
   },
-
   "keywords": [
     "jokes"
   ],
   "author": "bjørn håvard <bjornhaavard@hotmail.com>",
-  "license": "ISC", 
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/bjornhaavard/joker/issues"
   },
