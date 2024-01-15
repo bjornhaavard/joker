@@ -11,14 +11,16 @@
     "type": "module",
     "url": "git+https://github.com/bjornhaavard/joker.git"
   },
-
   "keywords": [
     "jokes"
   ],
   "author": "bjørn håvard <bjornhaavard@hotmail.com>",
-  "license": "ISC", 
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/bjornhaavard/joker/issues"
   },
-  "homepage": "https://github.com/bjornhaavard/joker#readme"
+  "homepage": "https://github.com/bjornhaavard/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
